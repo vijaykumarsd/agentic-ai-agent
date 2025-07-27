@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+gunicorn
+google-adk
+google-generativeai
+python-dotenv
+typing-extensions
+pytest
+pytest-asyncio
+loguru
+pydantic
+httpx
+firebase-admin
